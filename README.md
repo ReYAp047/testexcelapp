@@ -18,9 +18,8 @@ To successfully run this project, ensure the following prerequisites are met:
 3. **Dependency Installation:**
    - Install the required dependencies by running:
      ```
-     pip install <dependency_name>
+     pip install django-import-export
      ```
-     Replace `<dependency_name>` with the specific dependencies mentioned in the project documentation.
 
 ## Getting Started
 
